@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" group-title="Movies",AMC
+https://dai.google.com/linear/hls/event/DWqD4EfPSFquVZ93QCNfhQ/master.m3u8
+
+#EXTINF:-1 tvg-id="paramount" tvg-name="Paramount Network" group-title="Movies",Paramount Network
+https://paramountchannel.streamplay.to/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" group-title="Movies",Cinemax
+https://cinemaxhd.streamplay.to/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="tcm" tvg-name="Turner Classic Movies" group-title="Movies",TCM
+https://tcm-classic-movies-live.cdn.tv/playlist.m3u8
