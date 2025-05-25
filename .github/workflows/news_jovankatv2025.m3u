@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bbcworld" tvg-name="BBC World News" group-title="News",BBC World News
+https://dai.google.com/linear/hls/event/rMiPv9sNRyuZwKq-rGCV1g/master.m3u8
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN International" group-title="News",CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aljazeeraenglish" tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="dw" tvg-name="DW News" group-title="News",DW News
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124556/index_1_av-p.m3u8
