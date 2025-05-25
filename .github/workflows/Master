@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="news" tvg-name="News Channels" group-title="Protected",News
+https://Anaksaragih.github.io/iptv-playlist/news_jovankatv2025.m3u
+
+#EXTINF:-1 tvg-id="sports" tvg-name="Sports Channels" group-title="Protected",Sports
+https://Anaksaragih.github.io/iptv-playlist/sports_jovankatv2025.m3u
+
+#EXTINF:-1 tvg-id="movies" tvg-name="Movie Channels" group-title="Protected",Movies
+https://Anaksaragih.github.io/iptv-playlist/movies_jovankatv2025.m3u
+
+#EXTINF:-1 tvg-id="kids" tvg-name="Kids Channels" group-title="Protected",Kids
+https://Anaksaragih.github.io/iptv-playlist/kids_jovankatv2025.m3u
+
+#EXTINF:-1 tvg-id="worldtv" tvg-name="All Channels" group-title="Protected",WorldTV (All)
+https://Anaksaragih.github.io/iptv-playlist/worldtv_jovankatv2025.m3u
