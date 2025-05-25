@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Sports",ESPN
+https://linear-401.frequency.stream/dist/localnow/401/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="skysportsnews" tvg-name="Sky Sports News" group-title="Sports",Sky Sports News
+https://dai.google.com/linear/hls/event/lFxwLdTiQvm3yG_qZQ3mjA/master.m3u8
+
+#EXTINF:-1 tvg-id="nbcsn" tvg-name="NBC Sports" group-title="Sports",NBC Sports
+https://nbcsnlive-lh.akamaihd.net/i/nbcsnlive_1@123456/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="bein" tvg-name="Bein Sports Xtra" group-title="Sports",Bein Sports Xtra
+https://sportsxtrabein.vod.stream.cdn.kbs.kg/live/playlist.m3u8
